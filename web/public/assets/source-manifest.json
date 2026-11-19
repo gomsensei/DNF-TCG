@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "assets": [],
+  "status": "First implementation uses code-rendered card frames and bundled lucide-react icons. No third-party card artwork has been downloaded or bundled.",
+  "researchSources": [
+    {"page": "https://df.nexon.com/pr/dfonwallpaper", "status": "Official source identified; individual NPC/card matching and reuse conditions not yet verified"},
+    {"page": "https://www.dfoneople.com/media/wallpaper", "status": "Official source identified; no asset bundled"}
+  ]
+}
